@@ -1,2 +1,3 @@
 practiseing hands on git
 now i am adding second sentance
+adding 3rd sentance
