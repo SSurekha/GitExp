@@ -1,1 +1,2 @@
 practiseing hands on git
+now i am adding second sentance
